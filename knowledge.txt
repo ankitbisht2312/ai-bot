@@ -1,0 +1,77 @@
+Sure! Here’s a **detailed, paragraph-style knowledge base** with **realistic sample pricing** added for each insurance type. This version is ideal for feeding into a chatbot model or embedding in documentation for customer support.
+
+---
+
+# 🧠 **AI Chatbot Knowledge Base for Insurance Policies (Paragraph Format with Pricing)**
+
+---
+
+## 🏥 **Health Insurance**
+
+Health insurance provides financial protection against medical expenses such as hospitalization, surgeries, and critical illness treatments. It typically includes pre- and post-hospitalization costs, daycare procedures, ambulance charges, and optional maternity coverage. For an individual aged 30, a basic health insurance policy with a sum insured of ₹5 lakh typically costs around ₹6,000 to ₹8,000 per year. A family floater policy for a couple with one child, with a sum insured of ₹10 lakh, costs around ₹14,000 to ₹18,000 per year. Critical illness coverage, which pays a lump sum upon diagnosis of conditions like cancer or heart disease, is available as a separate policy or rider, with prices starting from ₹3,000 annually for ₹5 lakh coverage. Senior citizen health insurance plans are more expensive due to higher risk, with premiums starting from ₹20,000 per year for ₹5 lakh coverage.
+
+---
+
+## 🛡️ **Life Insurance**
+
+Life insurance offers financial protection to beneficiaries upon the policyholder’s death or after a maturity period in savings-linked policies. Term life insurance, the most affordable form, offers pure coverage with no maturity benefit. For a 30-year-old non-smoker, a ₹1 crore term plan for 30 years can cost around ₹8,000 to ₹12,000 per year. Whole life insurance provides lifelong cover (up to 99 years) and builds a cash value; premiums start at ₹25,000 per year for ₹25 lakh sum assured. Endowment plans that combine insurance with savings start at ₹15,000 annually for ₹10 lakh coverage. ULIPs (Unit Linked Insurance Plans) that offer market-linked returns begin at ₹20,000 per year, with both life cover and investment in equity/debt funds. Additional riders such as accidental death benefit or waiver of premium add to the base premium, usually costing ₹1,000–₹2,000 per rider annually.
+
+---
+
+## 🚗 **Auto Insurance**
+
+Auto insurance protects vehicle owners from financial loss due to accidents, theft, and third-party liabilities. A third-party liability insurance policy is mandatory and covers damage or injury to other people or property. For a regular car, this policy starts at around ₹2,000 to ₹3,000 per year. A comprehensive auto insurance policy, which also includes damage to the insured vehicle from fire, accidents, theft, and natural disasters, typically costs ₹8,000 to ₹15,000 annually for a hatchback worth ₹6 lakh. Add-on covers such as zero depreciation (which ensures full claim without value deductions), engine protection, and roadside assistance cost an additional ₹1,500 to ₹5,000 annually. Two-wheeler insurance is much cheaper, with comprehensive plans starting at ₹1,000 per year.
+
+---
+
+## 🏠 **Home Insurance**
+
+Home insurance offers financial protection against risks like fire, theft, natural calamities, and structural damage. For a ₹50 lakh home structure, a basic structure-only insurance plan costs around ₹1,500 to ₹2,500 per year. A contents insurance plan that protects belongings like electronics, furniture, and jewelry up to ₹10 lakh costs around ₹1,000 to ₹1,800 annually. Comprehensive home insurance, which includes both structure and contents, is priced at approximately ₹2,500 to ₹4,000 per year for medium-sized homes. Additional riders like loss of rent or alternate accommodation cover may cost ₹500–₹800 extra per year. Landlord insurance for rental property typically starts from ₹2,000 per year, and tenant insurance (covering contents only) starts from ₹1,000 annually.
+
+---
+
+## 📊 **Premium Factors Across Policies**
+
+Premiums vary based on factors such as age, location, lifestyle, policy term, sum insured, vehicle type, and property risk. For example, a smoker buying life insurance would pay 25–50% more in premiums compared to a non-smoker. Vehicles in accident-prone zones or older properties in flood-prone areas incur higher premiums. Health insurance for older adults is significantly more expensive due to higher claim probability. Bundling policies (e.g., home + auto) can reduce total cost by 10–20%.
+
+---
+
+## 📝 **Claim Processes Overview**
+
+In **health insurance**, claims can be cashless (via network hospitals) or reimbursement-based (submit bills for reimbursement). Approval is typically required from a Third Party Administrator (TPA). In **life insurance**, claims are settled within 30 days upon submitting the death certificate, policy details, and nominee identification. For **auto insurance**, policyholders must inform the insurer within 24 hours of an accident, submit a First Information Report (FIR) if needed, and undergo vehicle inspection. **Home insurance** claims require submission of FIR (for theft), damage proof, and repair estimates. Payout is made after investigation, usually within 15–30 working days.
+
+
+
+
+### Q: What does health insurance cover?
+A: Health insurance covers hospitalization, surgeries, critical illnesses, pre/post-hospitalization, ambulance charges, and maternity (optional).
+
+### Q: How much does health insurance cost for individuals?
+A: For a 30-year-old individual, a ₹5 lakh plan costs around ₹6,000 to ₹8,000 per year.
+
+### Q: How much is a family floater policy?
+A: A family floater (2 adults, 1 child) with ₹10 lakh coverage costs ₹14,000 to ₹18,000 annually.
+
+### Q: What is the cost of critical illness insurance?
+A: A ₹5 lakh critical illness plan starts from ₹3,000 per year.
+
+### Q: What’s the cost of term life insurance?
+A: A ₹1 crore term life plan for a 30-year-old non-smoker costs ₹8,000 to ₹12,000 annually.
+
+### Q: What’s the difference between term and whole life insurance?
+A: Term insurance offers pure coverage with no maturity benefit; whole life covers till age 99 and includes savings with higher premiums.
+
+### Q: How much is comprehensive car insurance?
+A: For a ₹6 lakh hatchback, it ranges from ₹8,000 to ₹15,000 per year. Add-ons may cost an extra ₹1,500 to ₹5,000.
+
+### Q: What’s included in home insurance?
+A: It covers your home structure and/or contents (furniture, electronics) from fire, theft, or natural disasters.
+
+### Q: How are health insurance claims processed?
+A: Claims can be cashless (via network hospitals) or reimbursed (submit bills with proof). TPA approval is usually required.
+
+### Q: What documents are needed for a life insurance claim?
+A: You need the death certificate, ID proof, nominee details, and original policy. Claims are settled in 30 days.
+
+### Q: Can I reduce my premiums?
+A: Yes. Maintain a healthy lifestyle, avoid smoking, and bundle policies (e.g., home + auto) to get 10–20% discounts.
